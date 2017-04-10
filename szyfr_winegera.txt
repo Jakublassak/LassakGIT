@@ -5,7 +5,13 @@
 #include<stdio.h>
 #include<iostream.h>
 #include <math.h>
- 
+ 10 10 10 10 10 10 10 10 
+ 10 10 10 10 10 10 10 10 
+ 10 10 10 10 10 10 10 10 
+ 10 10 10 10 10 10 10 10 
+ 10 10 10 10 10 10 10 10 
+ 10 10 10 10 10 10 10 10 
+ 10 10 10 10 10 10 10 10 
 //W przypadku gdy szyfrowany tekst lub haslo posiadaja dlugosc > niz 200 znakow nalezy
 //powiekszyc rozmiar tablic: tablica_ASCII, haslo.
 void main()
