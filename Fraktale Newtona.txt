@@ -1,7 +1,7 @@
 // Fraktale Newtona
 // www.algorytm.org
 // Tomasz Lubinski (c) 2009
- 
+ 333333333333333333333333333333333333333333333333333333333333333333333333333333
 unit Newton;
  
 interface
