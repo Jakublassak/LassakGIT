@@ -2,7 +2,7 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
- 
+ 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
 bool czy_anagram(char *a, char *b)
 {
   //wyznaczenie liczby liter w slowie a i w slowie b
