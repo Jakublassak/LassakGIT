@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdlib>
 using namespace std;
- 
+ 77777777777777777777777777777777777777777777777777777777777777777777777777
 void sito(bool *tab, unsigned int n)
 {
   for (int i=2; i*i<=n; i++) //przeszukujemy kolejnych kandydatów na pierwsze
