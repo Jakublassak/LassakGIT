@@ -2,6 +2,7 @@
 // www.algorytm.org
 // Tomasz Lubinski (c) 2009
  
+asdfasdfasdfasdfasdfasdfas
 unit Newton;
  
 interface
