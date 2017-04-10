@@ -1,6 +1,6 @@
 // sortowanie szybkie (quicksort)
 // www.algorytm.org
- 
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 #include<iostream>
 using namespace std;
  
