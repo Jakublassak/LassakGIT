@@ -1,4 +1,4 @@
-// Fraktale - zbior Julii
+// Fraktale - zbior Julii x Romeo
 // www.algorytm.org
 // Tomasz Lubinski (c) 2008
 //---------------------------------------------------------------------------
