@@ -1,7 +1,7 @@
 //Program szyfrujacy tekst z pliku za pomoca algorytmu Vigenere`a
 //Program pobrano ze strony www.algorytm.org
 //Opracowal Krzysztof Mackowiak
- 
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 #include<stdio.h>
 #include<iostream.h>
 #include <math.h>
