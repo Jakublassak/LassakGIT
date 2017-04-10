@@ -5,7 +5,7 @@ unit sztuczny_neuron;
  
 interface
  
-uses
+uses999999999999999999999999999999999999999999999999999999999999999999999999999999999
 Windows, Messages, Math, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
 StdCtrls;
  
