@@ -40,3 +40,6 @@ int main()
     cin.get();
     return 0;
 }
+
+
+cos tu ma³o

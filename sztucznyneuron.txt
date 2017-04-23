@@ -1,4 +1,5 @@
 //www.algorytm.org
+trudne to
 //sztuczny neuron (c)2002 by Tomasz Lubiñski
  
 unit sztuczny_neuron;
